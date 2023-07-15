@@ -1,0 +1,57 @@
+----------------------------------
+
+Personal Information
+
+- Full Name : Juan Guillermo Duque Montoya
+
+- Phone : +57 3002513585
+
+- Email : g.duque@utp.edu.co
+
+- Github User : Juanguillermoduque
+
+----------------------------------
+
+Work Experience 
+
+- Database administrator - MabeCenter - 6 Months
+
+- Full Stack Development - Globaldoc S.A - 8 months 
+
+----------------------------------
+
+Education Informartion
+
+- Software Programming - Sena - 2020
+
+- Software Analysis and Development - Sena - 2024
+
+----------------------------------
+
+Skills
+
+- Angular Framework - Material Desing
+
+- Node Js - Express Framework
+
+- Bootstrap - Tailwind 
+
+- Django Framework
+
+- Mysql - MongoDb
+
+- Laravel - Symfony Framework
+
+- Electronjs - JavaFrames 
+
+----------------------------------
+ 
+Projects
+
+- Software for Parking Administration
+
+- Wep application for Asistences control 
+
+- Wep application Ecommerce 
+
+----------------------------------
